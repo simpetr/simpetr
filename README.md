@@ -2,7 +2,7 @@
 
 I'm Simone, an Italian game developer currently living in Austria :grin:
 
-:space_invader: I work as game programmer at Bongfish (World of Tanks).
+:space_invader: I work as gameplay programmer at Bongfish (World of Tanks). I have experience in Unreal Engine and Unity, and in the past I also did scientific research about players and game communities.
 
 - :clock4: In my free time I like to work on personal gaming project, read, cook, build gunpla and enjoy nature :sunflower:.
 - 🌱 Every day learning something new especially about gaming tech.
