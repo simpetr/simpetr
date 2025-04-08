@@ -2,13 +2,12 @@
 
 I'm Simone, an Italian game developer currently living in Austria :grin:
 
-:space_invader: I work as gameplay programmer at Bongfish (World of Tanks). I have experience in Unreal Engine and Unity, and in the past I also did scientific research about players and game communities.
+:space_invader: I'm mainly a gameplay programmer. I worked for three years on World of Tanks where I also covered the role of Tech Leader. At the moment I'm working on an announced UE5 title.
+In the past I also did some scientific research specifically on players and their role in game communities.
 
 - :clock4: In my free time I like to work on personal gaming project, read, cook, build gunpla and enjoy nature :sunflower:.
 - 🌱 Every day learning something new especially about gaming tech.
 - 📫 How to reach me: sim.petrosino@gmail.com or [Linkedin](linkedin.com/in/simonepetrosino/)
-- 💬 If you want to know more about me check my resume or the other links on left <----  :grin:.
-
 Byee !
 
 <!--
