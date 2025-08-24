@@ -7,7 +7,7 @@ In the past I was a PhD student writing about players and their role in game com
 
 - :clock4: In my free time I like to work on personal gaming project, read, cook, build gunpla and enjoy nature :sunflower:.
 - 🌱 Every day learning something new especially about gaming tech.
-- 📫 How to reach me: sim.petrosino@gmail.com or [Linkedin](linkedin.com/in/simonepetrosino/)
+- 📫 How to reach me: [Linkedin](linkedin.com/in/simonepetrosino/)
 Byee !
 
 <!--
