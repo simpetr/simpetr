@@ -1,9 +1,9 @@
 ### Hello there :sparkles:
 
-I'm Simone, an Italian game developer currently living in Austria :grin:
+I'm Simone, an Italian game developer living in Austria and working full remote from Italy at the moment :grin:
 
-:space_invader: I'm a gameplay programmer. I worked for three years on World of Tanks where I also covered the role of Tech Leader. At the moment I'm working on an announced UE5 title.
-In the past I was a PhD student writing about players and their role in game communities, while the topic is still very interesting for me I realized the academic life was not for me.
+:space_invader: I'm an experienced gameplay programmer , I was the Tech Leader for the World of Tanks event => Waffentrager: Reckoning. Currently the most succesful WoT in-game event. At the moment I'm working on an announced UE5 title.
+In the past I was a PhD student writing about players and their role in game communities.
 
 - :clock4: In my free time I like to work on personal gaming project, read, cook, build gunpla and enjoy nature :sunflower:.
 - 🌱 Every day learning something new especially about gaming tech.
